@@ -1,6 +1,4 @@
 # Infinity-LiteOCR-Millions-Images
-Develop Khmer OCR train with 16 millions images
-
 A high-throughput, lightweight optical character recognition (OCR) pipeline and FastAPI web service designed and optimized to handle massive training corpora and ultra-fast inference without heavy framework dependencies (e.g., bypassing heavy `torchvision` overhead).
 
 ---
